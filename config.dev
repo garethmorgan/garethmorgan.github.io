@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+
+# Setup
+title:            garethmorgan.net
+tagline:          Gareth's homepage
+description:      Gareth Morgan's website. Science, mountains and other stuff.
+url:              http://www.garethmorgan.net
+baseurl:          /
+
+author:
+  name:           Gareth Morgan
+  url:            http://www.garethmorgan.net
+
+
+# Custom vars
+version:          3.2.1
+
+# Gems
+gems: [jekyll-paginate]
+gems: [jekyll-gist]
+
+github:
+  repo:           https://github.com/poole/hyde

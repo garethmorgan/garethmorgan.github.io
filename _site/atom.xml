@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>garethmorgan.net</title>
+ <link href="http://www.garethmorgan.net/atom.xml" rel="self"/>
+ <link href="http://www.garethmorgan.net/"/>
+ <updated>2016-10-18T23:14:31-07:00</updated>
+ <id>http://www.garethmorgan.net</id>
+ <author>
+   <name>Gareth Morgan</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello (again) world!</title>
+   <link href="http://www.garethmorgan.net/2016/10/02/hello-world2/"/>
+   <updated>2016-10-02T00:00:00-07:00</updated>
+   <id>http://www.garethmorgan.net/2016/10/02/hello-world2</id>
+   <content type="html">&lt;p&gt;I made a website with &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; and &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;. It looks just like every other Jekyll website! Everything is a bit minimalist right now, but I intend to put more stuff here as I go on.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
